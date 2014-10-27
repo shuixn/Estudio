@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\EStudio\EStudio\bin\x64\Debug\EStudio.exe.config
+C:\Users\Administrator\Desktop\EStudio\EStudio\bin\x64\Debug\EStudio.exe
+C:\Users\Administrator\Desktop\EStudio\EStudio\bin\x64\Debug\EStudio.pdb
+C:\Users\Administrator\Desktop\EStudio\EStudio\obj\x64\Debug\EStudio.EStudioRanking.resources
+C:\Users\Administrator\Desktop\EStudio\EStudio\obj\x64\Debug\EStudio.FirstDoor.resources
+C:\Users\Administrator\Desktop\EStudio\EStudio\obj\x64\Debug\EStudio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EStudio\EStudio\obj\x64\Debug\EStudio.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EStudio\EStudio\obj\x64\Debug\EStudio.exe
+C:\Users\Administrator\Desktop\EStudio\EStudio\obj\x64\Debug\EStudio.pdb

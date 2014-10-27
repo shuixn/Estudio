@@ -1,0 +1,8 @@
+C:\Users\Administrator\desktop\EStudio\EStudio\bin\x86\Debug\EStudio.exe.config
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\EStudio.csproj.ResolveComReference.cache
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\EStudio.FirstDoor.resources
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\EStudio.Properties.Resources.resources
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\EStudio.SaveRecordName.resources
+C:\Users\Administrator\desktop\EStudio\EStudio\obj\x86\Debug\EStudio.csproj.GenerateResource.Cache
